@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="header">Profile</string>
+    <string name="nim">A11.2018.11286</string>
+    <string name="name">Farrel Athaillah Putra</string>
+    <string name="role">Enterpreneur | Javascript Developer | Investor</string>
+    <string name="phone_number">082134411244</string>
+    <string name="email_address">frl25ap@gmail.com</string>
+    <string name="home_address">Perum. Bukit Diponegoro B-205 Tembalang Semarang</string>
+    <string name="about_title">About</string>
+    <string name="about_content">Manusia berdikari yang terus melangkah kedepan, selalu berfokus pada peluang dan tetap produktif</string>
+</resources>
