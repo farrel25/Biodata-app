@@ -17,8 +17,7 @@
             android:paddingBottom="60dp"
             android:layout_alignParentTop="true"
             android:layout_alignParentStart="true"
-            android:layout_alignParentEnd="true"
-            />
+            android:layout_alignParentEnd="true"/>
 
         <TextView
             android:id="@+id/title"
@@ -32,8 +31,7 @@
             android:layout_alignParentTop="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentEnd="true"
-            android:layout_marginTop="30dp"
-            />
+            android:layout_marginTop="30dp"/>
 
         <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/profile_pict"
@@ -43,8 +41,7 @@
             android:layout_below="@id/title"
             android:layout_marginTop="16dp"
             android:layout_alignParentStart="true"
-            android:layout_alignParentEnd="true"
-            />
+            android:layout_alignParentEnd="true"/>
 
         <TextView
             android:id="@+id/nim"
@@ -57,8 +54,7 @@
             android:textSize="12sp"
             android:textAlignment="center"
             android:layout_alignParentStart="true"
-            android:layout_alignParentEnd="true"
-            />
+            android:layout_alignParentEnd="true" />
 
         <TextView
             android:id="@+id/name"
@@ -72,8 +68,7 @@
             android:textColor="@color/linxWhite"
             android:paddingBottom="6dp"
             android:layout_alignParentStart="true"
-            android:layout_alignParentEnd="true"
-            />
+            android:layout_alignParentEnd="true"/>
 
         <TextView
             android:id="@+id/role"
@@ -86,17 +81,14 @@
             android:layout_below="@id/name"
             android:paddingBottom="16dp"
             android:layout_alignParentStart="true"
-            android:layout_alignParentEnd="true"
-            />
+            android:layout_alignParentEnd="true"/>
 
         <LinearLayout
             android:id="@+id/btn_group"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@id/role"
-            android:orientation="horizontal"
-
-            >
+            android:orientation="horizontal">
 
             <Button
                 android:id="@+id/btn_phone"
